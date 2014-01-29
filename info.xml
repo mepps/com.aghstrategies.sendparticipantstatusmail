@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<extension key="com.aghstrategies.sendparticipantstatusmail" type="module">
+  <file>sendparticipantstatusmail</file>
+  <name>Send Participant Status Email</name>
+  <description>Sends email to participant on update to status for custom statuses.</description>
+  <license>agpl</license>
+  <maintainer>
+    <author>Maggie Epps</author>
+    <email>maggie@aghstrategies.com</email>
+  </maintainer>
+  <releaseDate>2014-01-27</releaseDate>
+  <version>1.0</version>
+  <develStage>alpha</develStage>
+  <compatibility>
+    <ver>4.4.2</ver>
+  </compatibility>
+  <comments>This module has been developed specifically for GEF.</comments>
+  <civix>
+    <namespace>CRM/Sendparticipantstatusmail</namespace>
+  </civix>
+</extension>
